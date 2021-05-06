@@ -4,6 +4,7 @@
 <h1 align=center>
   HelloWorlds 👋
 </h1>
+
 <p>
   <b> Hello World </b> output in most programming languages 👨‍💻🧑‍💻
 </p>
@@ -22,3 +23,8 @@
 <p align=center>
   <img align=center src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" />
 </p>
+
+<h2>
+  Languages Used 🔤
+</h2>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
