@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-  <b> Hello World </b> output in most programming languages 👨‍💻🧑‍💻
+  <b> Hello World </b> output in most programming languages 👨‍💻👩‍💻
 </p>
 <p>
   There are more than 100 language in this collection 😲
