@@ -54,4 +54,43 @@
   <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
+  
+  and more 👍
+</p>
+
+<h2>
+  License 📃
+</h2>
+
+<p>
+  MIT License
+
+  Copyright (c) 2021 1nj3ct0r
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+</p>
+
+<h2>
+  Other Places 😁
+</h2>
+
+<p align=center>
+  <img align=center src="https://media.giphy.com/media/IzvZgXhpRcARJkQAy9/giphy.gif" />
 </p>
