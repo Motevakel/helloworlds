@@ -139,6 +139,7 @@
   <a href="https://www.hackerrank.com/1nj3ct0r">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
   </a>
+</p>
 
 <p align=center>
   <img align=center src="https://media.giphy.com/media/IzvZgXhpRcARJkQAy9/giphy.gif" />
