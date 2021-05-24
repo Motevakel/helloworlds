@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
-  <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
   
   and more 👍
 </p>
@@ -91,7 +90,50 @@
   Other Places 😁
 </h2>
 
+<p>
+  <a href="mailto:mhesam.tavakoli@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/1nj3ct0r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://soundcloud.com/1nj3ct0r">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
+  </a>
+  <a href="https://unsplash.com/@1nj3ct0r">
+    <img src="https://img.shields.io/badge/UnSplash-000000?style=flat&logo=unsplash&logoColor=white" />
+  </a>
+  <a href="https://www.producthunt.com/@1nj3ct0r">
+    <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=flat&logo=product-hunt&logoColor=white" />
+  </a>
+  <a href="https://1nj3ct0r.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://news.ycombinator.com/user?id=1nj3ct0r">
+    <img src="https://img.shields.io/badge/Y%20Combinator-F0652F?style=flat&logo=y-combinator&logoColor=white" />
+  </a>
+  <a href="https://github.com/1nj3ct0rrr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/1nj3ct0r">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://glitch.com/@1nj3ct0r">
+    <img src="https://img.shields.io/badge/Glitch-3333FF?style=flat&logo=glitch&logoColor=white" />
+  </a>
+  <a href="https://www.freecodecamp.org/1nj3ct0r">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/1nj3ct0r/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/1nj3ct0r">
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/1nj3ct0r">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+
 <p align=center>
   <img align=center src="https://media.giphy.com/media/IzvZgXhpRcARJkQAy9/giphy.gif" />
 </p>
-
