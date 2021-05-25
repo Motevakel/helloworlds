@@ -106,9 +106,6 @@
   <a href="https://soundcloud.com/1nj3ct0r">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
   </a>
-  <a href="https://unsplash.com/@1nj3ct0r">
-    <img src="https://img.shields.io/badge/UnSplash-000000?style=flat&logo=unsplash&logoColor=white" />
-  </a>
   <a href="https://www.producthunt.com/@1nj3ct0r">
     <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=flat&logo=product-hunt&logoColor=white" />
   </a>
