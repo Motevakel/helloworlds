@@ -1,0 +1,36 @@
+
+<html>
+<head>
+<title>My First jQuery Example</title>
+  
+<script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+  
+$(document).ready(function(){
+ $("#msg").html("<h2>jQuery Hello World</h2>");
+});
+ 
+$(document).ready(function() {
+      $("#newdiv").click(function() {
+        alert("Hello world!");
+      });
+});
+  
+</script>
+</head>
+  
+<body>
+  
+<p>This is Hello World by HTML</p>
+  
+<div id="msg">
+</div>
+ 
+<br/>
+ 
+<div id="newdiv">
+Click on this to see a dialogue box.
+</div>
+  
+</body>
+</html>
