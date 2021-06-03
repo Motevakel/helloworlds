@@ -1,3 +1,5 @@
-body::before {
-    content: "Hello World";
+body{
+    &:before {
+        content: "Hello World";
+    }
 }
