@@ -97,44 +97,26 @@
 </h2>
 
 <p>
-  <a href="mailto:mhesam.tavakoli@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:d0t0n10n@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/1nj3ct0r/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://soundcloud.com/1nj3ct0r">
+  <a href="https://soundcloud.com/d0t0n10n">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
   </a>
-  <a href="https://www.producthunt.com/@1nj3ct0r">
-    <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=flat&logo=product-hunt&logoColor=white" />
-  </a>
-  <a href="https://1nj3ct0r.medium.com/">
+  <a href="https://dotonion.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
-  <a href="https://news.ycombinator.com/user?id=1nj3ct0r">
-    <img src="https://img.shields.io/badge/Y%20Combinator-F0652F?style=flat&logo=y-combinator&logoColor=white" />
-  </a>
-  <a href="https://github.com/1nj3ct0rrr">
+  <a href="https://github.com/d0t0n10n">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://codepen.io/1nj3ct0r">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" />
+  <a href="https://hashnode.com/@dotonion">
+    <img src="https://img.shields.io/badge/HashNode-2962FF?style=flat&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://glitch.com/@1nj3ct0r">
-    <img src="https://img.shields.io/badge/Glitch-3333FF?style=flat&logo=glitch&logoColor=white" />
-  </a>
-  <a href="https://www.freecodecamp.org/1nj3ct0r">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/1nj3ct0r/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  <a href="https://dev.to/dotonion">
+    <img src="https://img.shields.io/badge/Dev.To-0A0A0A?style=flat&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/1nj3ct0r">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/1nj3ct0r">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
