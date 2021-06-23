@@ -2,7 +2,7 @@
   <img align=center src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
 </p>
 <h1 align=center>
-  HelloWorlds 👋
+  HelloWorlds
 </h1>
 
 <p align=center>
@@ -12,19 +12,19 @@
 </p>
 
 <p>
-  <b> Hello World </b> output in most programming languages 👨‍💻👩‍💻
+  <b> Hello World </b> output in most programming languages 
 </p>
 <p>
-  There are more than 100 language in this collection 😲
+  There are more than 100 language in this collection 
   <br />
-  From the oldest to newest 🆕
+  From the oldest to newest 
   <br />
-  Form the known to the unknown 🤩
+  Form the known to the unknown 
 </p>
 <p>
-  I hope you enjoy this 👍
+  I hope you enjoy this 
   <br />
-  If you like this collection give this repo a ⭐ or 🍴 it and set the 🔔 to All to be informed about the latest changes
+  If you like this collection give this repo a star or fork it and set the notifications to All to be informed about the latest changes
 </p>
 <p align=center>
   <img align=center src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" />
@@ -61,11 +61,11 @@
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
   
-  and more 👍
+  and more...
 </p>
 
 <h2>
-  License 📃
+  License 
 </h2>
 
 <p>
@@ -93,7 +93,7 @@
 </p>
 
 <h2>
-  Other Places 😁
+  Other Places 
 </h2>
 
 <p>
