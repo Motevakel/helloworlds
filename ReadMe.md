@@ -31,7 +31,7 @@
 </p>
 
 <h2>
-  Languages Used 🔤
+  Languages Used
 </h2>
 
 <p>
