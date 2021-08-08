@@ -1,9 +1,12 @@
-<p align=center>
-  <img align=center src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
-</p>
-<h1 align=center>
+<h2 align=center>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
+  <br />
   HelloWorlds
-</h1>
+  <br />
+    <a href="https://www.producthunt.com/posts/helloworlds?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-helloworlds" target="_blank">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=297111&theme=dark" alt="HelloWorlds 👋 - Hello World! program in +600 programming languages 🤯 | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</h2>
 
 <p align=center>
   <a href="https://www.producthunt.com/posts/helloworlds?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-helloworlds" target="_blank">
