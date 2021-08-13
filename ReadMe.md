@@ -50,6 +50,8 @@
 </h2>
 
 <p>
+  Here are some examples of popular languages in the project:
+  <br />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -75,8 +77,9 @@
   <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=flat&logo=coffeescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
-  
-  and more...
+  <br />
+  <br />
+  And many other languages...
 </p>
 
 <h2>
