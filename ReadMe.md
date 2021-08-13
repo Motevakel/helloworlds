@@ -1,4 +1,4 @@
-<h2 align=center>
+<h1 align=center>
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
   <br />
   HelloWorlds
@@ -29,22 +29,20 @@
 </h2>
 
 <p>
-  <b> Hello World </b> output in most programming languages 
-</p>
-<p>
-  There are more than 100 language in this collection 
+  This project is an interesting and entertaining project!
   <br />
-  From the oldest to newest 
+  <b>Hello, Wordl!</b> program in most of programming languages!
+  
+  When you enter the world of programming, you try to write your first program.
   <br />
-  Form the known to the unknown 
-</p>
-<p>
-  I hope you enjoy this 
+  Most people write <b>Hello, World!</b> for the first time. And this project is one of the best references of this program in any languages!
   <br />
-  If you like this collection give this repo a star or fork it and set the notifications to All to be informed about the latest changes
-</p>
-<p align=center>
-  <img align=center src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" />
+  <br />
+  If you like this project, please give it a <b>Star</b>, and if you want to be informed about the changes in this project, turn on the <b>Watch</b> option.
+  <br />
+  Also, if you have another language in mind or any ideas, <b>Fork</b> this project and add that language.
+  <br />
+  Thank you for reading this text and visiting this project.
 </p>
 
 <h2>
