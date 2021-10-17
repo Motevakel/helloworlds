@@ -111,7 +111,7 @@
 </p>
 
 <h2>
-  Other Places {EDIT HERE} 
+  Other Places
 </h2>
 
 <p>
